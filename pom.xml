@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
    <groupId>root</groupId>
-   <version>1.0.1</version>
+   <version>1.0.2-SNAPSHOT</version>
    <artifactId>project</artifactId>
    <packaging>pom</packaging>
    <name>project</name>
@@ -14,7 +14,7 @@
    </modules>
     <scm>
       <developerConnection>scm:git:https://github.com/Vunovati/gitflow-j2ee.git</developerConnection>
-      <tag>v1.0.1</tag>
+      <tag>HEAD</tag>
   </scm>
    <build>
       <pluginManagement>
@@ -37,23 +37,23 @@
          <dependency>
             <groupId>root.project.projects</groupId>
             <artifactId>logging</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2-SNAPSHOT</version>
          </dependency>
          <dependency>
             <groupId>root.project</groupId>
             <artifactId>primary-source</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2-SNAPSHOT</version>
          </dependency>
          <dependency>
             <groupId>root.project.servlets</groupId>
             <artifactId>servlet</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2-SNAPSHOT</version>
             <type>war</type>
          </dependency>
          <dependency>
             <groupId>root.project</groupId>
             <artifactId>ejbs</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2-SNAPSHOT</version>
             <type>ejb</type>
          </dependency>
       </dependencies>

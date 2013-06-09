@@ -3,12 +3,12 @@
    <groupId>root.project</groupId>
    <artifactId>ejbs</artifactId>
    <packaging>ejb</packaging>
-   <version>1.0.1</version>
+   <version>1.0.2-SNAPSHOT</version>
    <name>enterprise java beans</name>
    <parent>
       <groupId>root</groupId>
       <artifactId>project</artifactId>
-      <version>1.0.1</version>
+      <version>1.0.2-SNAPSHOT</version>
    </parent>
    <dependencies>
       <dependency>
