@@ -12,6 +12,9 @@
       <module>ejbs</module>
       <module>ear</module>
    </modules>
+    <scm>
+      <developerConnection>scm:git:https://github.com/Vunovati/gitflow-j2ee.git</developerConnection>
+    </scm>
    <build>
       <pluginManagement>
            <plugins>
