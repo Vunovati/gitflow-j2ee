@@ -4,11 +4,11 @@
    <artifactId>servlets</artifactId>
    <packaging>pom</packaging>
    <name>servlets</name>
-   <version>1.0</version>
+   <version>1.0.1-SNAPSHOT</version>
    <parent>
       <groupId>root</groupId>
       <artifactId>project</artifactId>
-      <version>1.0</version>
+      <version>1.0.1-SNAPSHOT</version>
    </parent>
    <modules>
       <module>servlet</module>
