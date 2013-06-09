@@ -57,11 +57,4 @@
          </dependency>
       </dependencies>
    </dependencyManagement>
-   <distributionManagement>
-      <site>
-         <id>site</id>
-         <name>project website</name>
-         <url>scp://local.company.com/websites/project.company.com/</url>
-      </site>
-   </distributionManagement>
 </project>
